@@ -6,7 +6,7 @@
 -- Chapter 2 (Single-table queries)
 ---------------------------------------------------------------------
 
--- 1. Write a query  to pull  all products that have the letter ìAî in the productname column.
+-- 1. Write a query  to pull  all products that have the letter ‚ÄúA‚Äù in the productname column.
 --		Show columns: productid, productname
 
 
@@ -70,3 +70,4 @@ SELECT
 --		Show columns: OrderDate, EmpName (first and last in one column), NumOrders
 --				Sort: OrdateDate
 
+-- 11.  Create the hardest query you can imagine.
